@@ -1,0 +1,69 @@
+2025/08/08 15:14:59 [notice] 2224#4688: signal process started
+2025/08/08 15:33:42 [notice] 4584#7316: signal process started
+2025/08/08 15:33:49 [notice] 12844#2568: signal process started
+2025/08/08 15:33:49 [error] 12844#2568: CreateFile() "C:\nginx-1.29.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/08/08 15:36:48 [error] 9280#8524: *13 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/08/08 15:37:05 [notice] 5940#12812: signal process started
+2025/08/08 15:38:31 [error] 9280#8524: *19 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/08/08 15:38:51 [notice] 13968#7148: signal process started
+2025/08/08 15:38:59 [error] 9280#8524: *22 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/08/08 15:39:33 [error] 9280#8524: *24 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/08/08 15:39:59 [error] 9280#8524: *26 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/08/08 15:41:52 [error] 9752#7188: *1 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/08/08 15:42:04 [error] 9280#8524: *28 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/08/08 15:42:42 [error] 9280#8524: *30 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/08/08 15:42:46 [error] 9752#7188: *4 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/08/08 15:44:48 [error] 12812#12860: *1 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/08/08 15:45:13 [notice] 3968#4156: signal process started
+2025/08/08 15:45:43 [error] 7264#11864: *1 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/08/08 15:45:59 [notice] 13984#13988: signal process started
+2025/08/08 15:46:46 [error] 12500#6796: *1 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/08/08 15:48:03 [notice] 9800#1972: signal process started
+2025/08/08 15:48:40 [error] 12500#6796: *11 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/08/08 15:49:00 [notice] 4552#14044: signal process started
+2025/08/08 15:49:00 [error] 4552#14044: CreateFile() "C:\nginx-1.29.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/08/08 15:49:34 [error] 12500#6796: *19 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/08/08 15:49:45 [notice] 13616#12388: signal process started
+2025/08/08 15:49:57 [error] 12500#6796: *21 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/08/08 15:50:36 [notice] 7808#11100: signal process started
+2025/08/08 15:50:36 [error] 7808#11100: CreateFile() "C:\nginx-1.29.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/08/08 15:51:24 [error] 12500#6796: *26 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/08/08 15:52:04 [notice] 4048#5428: signal process started
+2025/08/08 15:52:14 [error] 12500#6796: *28 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/08/08 15:54:13 [error] 12500#6796: *30 CreateFile() "C:\nginx-1.29.0/html/.well-known/appspecific/com.chrome.devtools.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1", host: "localhost"
+2025/08/08 15:54:19 [error] 12500#6796: *30 CreateFile() "C:\nginx-1.29.0/html/.well-known/appspecific/com.chrome.devtools.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1", host: "localhost"
+2025/08/08 16:01:37 [error] 12500#6796: *32 CreateFile() "C:\nginx-1.29.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/08/08 16:08:11 [error] 10624#6664: *1 CreateFile() "C:\Users\Amsath\Desktop\mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/08/08 16:24:24 [notice] 12468#12344: signal process started
+2025/08/08 16:24:36 [error] 7864#6884: *18 CreateFile() "C:\Users\Amsath\Desktop\mySite/.well-known/appspecific/com.chrome.devtools.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1", host: "localhost:8080"
+2025/08/08 16:24:44 [error] 7864#6884: *21 CreateFile() "C:\Users\Amsath\Desktop\mySite/.well-known/appspecific/com.chrome.devtools.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1", host: "localhost:8080"
+2025/08/08 16:26:13 [notice] 6644#12640: signal process started
+2025/08/08 16:26:17 [error] 11340#3828: *24 CreateFile() "C:\Users\Amsath\Desktop\mySite/.well-known/appspecific/com.chrome.devtools.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1", host: "localhost:8080"
+2025/08/08 16:27:24 [error] 11340#3828: *24 CreateFile() "C:\Users\Amsath\Desktop\mySite/.well-known/appspecific/com.chrome.devtools.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1", host: "localhost:8080"
+2025/08/08 16:28:01 [emerg] 6352#6740: directive "include" is not terminated by ";" in C:\nginx-1.29.0/conf/nginx.conf:5
+2025/08/08 16:28:18 [notice] 3188#13116: signal process started
+2025/08/08 16:28:23 [error] 2448#7068: *28 CreateFile() "C:\Users\Amsath\Desktop\mySite/.well-known/appspecific/com.chrome.devtools.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1", host: "localhost:8080"
+2025/08/08 16:30:02 [notice] 12008#2172: signal process started
+2025/08/08 16:30:49 [error] 10840#9116: *1 CreateFile() "C:\Users\Amsath\Desktop\mySite/.well-known/appspecific/com.chrome.devtools.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1", host: "localhost:8080"
+2025/08/08 16:30:55 [error] 10840#9116: *4 CreateFile() "C:\Users\Amsath\Desktop\mySite/.well-known/appspecific/com.chrome.devtools.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1", host: "localhost:8080"
+2025/08/08 18:56:43 [error] 9160#9012: *1 CreateFile() "C:\Users\Amsath\Desktop\mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/08/08 19:09:33 [emerg] 6712#14148: directive "location" has no opening "{" in C:\nginx-1.29.0/conf/nginx.conf:10
+2025/08/08 19:10:31 [emerg] 8628#11536: directive "location" has no opening "{" in C:\nginx-1.29.0/conf/nginx.conf:9
+2025/08/08 19:11:38 [emerg] 9100#12592: directive "location" has no opening "{" in C:\nginx-1.29.0/conf/nginx.conf:9
+2025/08/08 19:11:48 [error] 9160#9012: *10 CreateFile() "C:\Users\Amsath\Desktop\mySite/crabs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /crabs HTTP/1.1", host: "localhost:8080"
+2025/08/08 19:12:58 [error] 9160#9012: *14 CreateFile() "C:\Users\Amsath\Desktop\mySite/crabs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /crabs HTTP/1.1", host: "localhost:8080"
+2025/08/08 19:14:34 [emerg] 9824#5552: directive "location" has no opening "{" in C:\nginx-1.29.0/conf/nginx.conf:9
+2025/08/08 19:14:56 [error] 9160#9012: *19 CreateFile() "C:\Users\Amsath\Desktop\mySite/crabs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /crabs HTTP/1.1", host: "localhost:8080"
+2025/08/08 19:15:05 [error] 9160#9012: *22 CreateFile() "C:\Users\Amsath\Desktop\mySite/fruits/crabs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /fruits/crabs HTTP/1.1", host: "localhost:8080"
+2025/08/08 19:15:41 [emerg] 9472#12816: directive "location" has no opening "{" in C:\nginx-1.29.0/conf/nginx.conf:9
+2025/08/08 19:15:50 [error] 9160#9012: *25 CreateFile() "C:\Users\Amsath\Desktop\mySite/fruits/crabs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /fruits/crabs HTTP/1.1", host: "localhost:8080"
+2025/08/08 19:16:02 [error] 9160#9012: *28 CreateFile() "C:\Users\Amsath\Desktop\mySite/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2025/08/08 19:18:43 [emerg] 4244#14400: directive "location" has no opening "{" in C:\nginx-1.29.0/conf/nginx.conf:9
+2025/08/08 19:18:49 [error] 9160#9012: *31 CreateFile() "C:\Users\Amsath\Desktop\mySite/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2025/08/08 19:19:05 [error] 9160#9012: *37 "C:\Users\Amsath\Desktop\mySite/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2025/08/08 19:20:37 [notice] 14252#14768: signal process started
+2025/08/08 19:30:30 [notice] 6808#7660: signal process started
+2025/08/08 19:32:53 [error] 13156#14080: *57 CreateFile() "C:/Users/Amsath/Desktop/mySite/vegetable" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /vegetable HTTP/1.1", host: "localhost:8080"
+2025/08/08 19:37:04 [notice] 3280#6704: signal process started
+2025/08/08 19:39:03 [error] 6420#13008: *68 CreateFile() "C:/Users/Amsath/Desktop/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/08/08 19:39:37 [error] 6420#13008: *78 CreateFile() "C:/Users/Amsath/Desktop/mySite/vegetable" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /vegetable HTTP/1.1", host: "localhost:8080"
